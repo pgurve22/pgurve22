@@ -1,5 +1,6 @@
 # 💫 About Me:
 I bring hands-on experience with the 5G NR PDSCH transceiver chain, OFDM, DSP, mmWave MIMO, Massive MIMO, channel estimation, and machine learning. I am currently working on the QAM-based Full-Duplex Filter Bank Multi-Carrier System. I'm seeking opportunities in wireless communication, firmware, or similar. 
+Apart from tech, I enjoy sports and photography.
 
 
 ## 🌐 Socials:
